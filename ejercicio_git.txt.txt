@@ -1,3 +1,26 @@
 primera linea
 segunda linea
 tercera linea
+
+
+
+1.- ¿Qué es programación segura?
+Es una práctica de desarrollo orientada a diseñar, escribir y estructurar código robusto desde sus inicios con el objetivo de prevenir vulnerabilidades, mitigar riesgos ante ataques maliciosos y proteger la confidencialidad, integridad y disponibilidad de la información.
+
+2.- ¿Qué es OWASP?
+Es la Open Worldwide Application Security Foundation (Fundación Abierta de Seguridad de Aplicaciones Web), una comunidad internacional dedicada a mejorar la seguridad del software mediante estándares abiertos, herramientas y guías técnicas.
+
+3.- ¿Cuáles son las 7 fases del ciclo de vida del software?
+1. Planificación y definición de requisitos.
+2. Análisis y diseño de la arquitectura.
+3. Diseño detallado / Codificación.
+4. Pruebas (Testing y verificación de calidad).
+5. Despliegue o implementación en producción.
+6. Operación y mantenimiento.
+7. Retiro del software.
+
+4.- ¿Qué es un token, para que sirve?
+Es un identificador único y aleatorio generado por el servidor cuando un usuario inicia sesión. Sirve para autenticar y mantener activa la sesión del usuario en cada solicitud posterior de forma segura, sin necesidad de retransmitir las credenciales constantemente.
+
+5.- ¿Qué es GIT y para qué sirve?
+Es un sistema de control de versiones distribuido. Sirve para registrar y rastrear cambios en el código fuente, recuperar versiones anteriores, trabajar en equipo, crear ramas de desarrollo y sincronizarse con repositorios en la nube como GitHub.
